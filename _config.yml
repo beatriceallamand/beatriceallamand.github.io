@@ -23,7 +23,7 @@ repository               : "beatriceallamand.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Beatrice Allamand"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics at UC San Diego."
@@ -39,7 +39,7 @@ author:
   googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/testaccount_ba"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
@@ -166,6 +166,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
