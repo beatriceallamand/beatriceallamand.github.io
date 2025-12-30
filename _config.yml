@@ -24,7 +24,7 @@ repository               : "beatriceallamand.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/avatar.png"
+  avatar           : "https://beatriceallamand.github.io/assets/images/avatar.png"
   name             : "Beatrice Allamand"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics at UC San Diego."
@@ -32,7 +32,6 @@ author:
   employer         : "UC San Diego"
   uri              : # URL
   email            : "mallamandturner@ucsd.edu" 
-  cv               : "/files/cv.pdf"
   github           : "beatriceallamand"
 
   # Academic websites
