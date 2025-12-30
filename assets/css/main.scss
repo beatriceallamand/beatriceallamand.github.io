@@ -41,3 +41,22 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom: Hide text labels in the author sidebar to show icons only */
+.author__social-links li a span {
+  display: none !important;
+}
+
+/* Optional: Center the icons and make them a bit larger */
+.author__social-links li a i {
+  font-size: 1.2rem;
+  margin-right: 0;
+}
+
+/* Ensure the list items don't have extra padding */
+.author__social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-start;
+}
