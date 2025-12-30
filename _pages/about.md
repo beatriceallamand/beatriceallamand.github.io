@@ -11,7 +11,13 @@ I am a PhD student in Economics at the **University of California, San Diego**.
 
 My research interests are in **macroeconomics**, **international trade**, **labor**, and **development**, with a focus on **heterogeneous-agent models** and policy-relevant questions. My work combines quantitative macroeconomic theory with applied questions related to growth, labor markets, and inequality.
 
-<i class="fas fa-file-pdf"></i> [CV](files/cv.pdf)  ·
+<a href="/files/cv.pdf" class="btn btn--info" style="background-color: #333; color: white; border-radius: 10px; padding: 10px 20px; text-decoration: none; display: inline-flex; align-items: center; font-family: sans-serif;">
+  <i class="fas fa-file-pdf" style="margin-right: 12px; font-size: 24px;"></i>
+  <span style="display: flex; flex-direction: column;">
+    <strong style="font-size: 18px; line-height: 1;">Download CV</strong>
+    <small style="font-size: 12px; opacity: 0.8;">(PDF)</small>
+  </span>
+</a> ·
 <i class="fas fa-envelope"></i> [mallamandturner@ucsd.edu](mailto:mallamandturner@ucsd.edu)   ·
 <i class="fab fa-github"></i> [beatriceallamand](https://github.com/beatriceallamand)
 
