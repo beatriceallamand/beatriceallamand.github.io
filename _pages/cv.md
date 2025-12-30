@@ -15,13 +15,6 @@ redirect_from:
 - **Universidad de Chile** — M.A. in Economics (High Honors), 2019–2021  
 - **Universidad de Chile** — B.A. in Business and Economics (Honors), 2014–2019  
 
-## Research
-
-- **Capital Flows and the Geography of Growth** (work in progress)  
-- **Childcare as a Mobility Friction**, with Regina Calles and Grace Alster (in progress)  
-- **Endogenous Entrepreneurship in HANK**, with Aruzhan Nurlankul (in progress)  
-- **Amplification with High MPC Workers** (third-year paper)
-
 ## Research Assistance
 
 - **Prof. Juan Herreño**, UC San Diego (2025)  
