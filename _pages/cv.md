@@ -36,16 +36,16 @@ redirect_from:
 
 ## Teaching
 
-- **UC San Diego** — Teaching Assistant (2024–2025)
+- **UC San Diego** — Teaching Assistant (2024–2025)  
   Ph.D. Macroeconomic Theory I & II; Intermediate Macroeconomics.
 
-- **Universidad de Chile** — Lecturer (2021–2022)
+- **Universidad de Chile** — Lecturer (2021–2022)  
   Introduction to Microeconomics; Introduction to Macroeconomics.
 
-- **Universidad de Chile** — Teaching Assistant (2015–2020)
+- **Universidad de Chile** — Teaching Assistant (2015–2020)  
   Graduate: Political Economy; Econometrics. Undergraduate: Micro; Macro; Statistics.
 
-- **Pontificia Universidad Católica de Chile** — Teaching Assistant (2019)
+- **Pontificia Universidad Católica de Chile** — Teaching Assistant (2019)  
   Graduate: Topics on Economic Growth.
   
 ## Awards
