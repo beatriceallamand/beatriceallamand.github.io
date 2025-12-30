@@ -45,7 +45,7 @@ redirect_from:
 - **Universidad de Chile** — Teaching Assistant (2015–2020)  
   Graduate: Political Economy; Econometrics. Undergraduate: Micro; Macro; Statistics.
 
-- **Pontificia Universidad Católica de Chile** — Teaching Assistant (2019)  
+- **Pontificia Universidad Católica de Chile** — Teaching Assistant (2020)  
   Graduate: Topics on Economic Growth.
   
 ## Awards
