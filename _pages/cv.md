@@ -1,13 +1,24 @@
 ---
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="/files/cv.pdf" target="_blank" class="btn" style="background-color: #3d4147; color: #ffffff; border-radius: 6px; padding: 7px 14px; text-decoration: none; display: inline-flex; align-items: center; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; transition: 0.2s; border: 1px solid rgba(255,255,255,0.1);">
-  <i class="far fa-file-pdf" style="margin-right: 8px; font-size: 15px;"></i>
-  <span style="font-weight: 400; font-size: 14px; letter-spacing: 0.3px;">PDF CV</span>
-</a>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 25px;">
+  
+  <a href="/files/cv.pdf" target="_blank" class="btn" style="background-color: #3d4147; color: #ffffff; border-radius: 6px; padding: 8px 16px; text-decoration: none; display: inline-flex; align-items: center; font-size: 14px; border: 1px solid rgba(255,255,255,0.1);">
+    <i class="far fa-file-pdf" style="margin-right: 8px;"></i>
+    View CV
+  </a>
+
+  <a href="/files/cv.pdf" download="Beatrice_Allamand_CV.pdf" class="btn" style="background-color: #ffffff; color: #3d4147; border-radius: 6px; padding: 8px 16px; text-decoration: none; display: inline-flex; align-items: center; font-size: 14px; border: 1px solid #3d4147;">
+    <i class="fas fa-download" style="margin-right: 8px;"></i>
+    Download CV
+  </a>
+
+</div>
 
 
 ## Education
