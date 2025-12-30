@@ -68,7 +68,7 @@ redirect_from:
 
 ## Service and Leadership
 
-**Undergraduate Research Lab Leader**, *UC San Diego* (2024) $$\cdot$$ **Editorial Committee**, *Red Estudios Nueva Economía* (2021) $$\cdot$$ **Senior Researcher**, *IEPS* (2021) $$\cdot$$ **President, Student Council (CEIC)**, *Universidad de Chile* (2018–2020) $$\cdot$$ **Organizer**, *Critical Congress of Economics* (2019) $$\cdot$$ **Student Federation Counselor (FECH)**, *Universidad de Chile* (2017–2018)
+Undergraduate Research Lab Leader, UC San Diego (2024) $$\cdot$$ Editorial Committee, Red Estudios Nueva Economía Journal (2021) $$\cdot$$ Senior Researcher, IEPS (2021) $$\cdot$$ President, Student Council (CEIC), Universidad de Chile (2018–2020) $$\cdot$$ Student Federation Counselor (FECH), Universidad de Chile (2017–2018)
 
 ## Skills
 
