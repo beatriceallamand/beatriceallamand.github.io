@@ -30,7 +30,7 @@ redirect_from:
 ## Research Assistance
 
 - **Prof. Juan Herreño**, UC San Diego (2025)  
-  Developed and solved a menu-cost model to assess robustness of a Phillips Curve sufficient-statistics empirical strategy.
+  Developed and solved a menu-cost model using Python to assess robustness of a Phillips Curve sufficient-statistics empirical strategy.
 
 - **Prof. Esteban Puentes**, Universidad de Chile (2021–2022)  
   Produced an ILO report on post-COVID labor markets using multiple national datasets.
@@ -40,16 +40,18 @@ redirect_from:
 
 ## Teaching
 
-- **UC San Diego** — Teaching Assistant (2024–2025)  
-  Ph.D. Macroeconomic Theory I (Econ 210A); Ph.D. Macroeconomic Theory II (Econ 210B); Intermediate Macroeconomics (Econ 110C)
+- **UC San Diego** — Teaching Assistant (2024–2025)
+  Ph.D. Macroeconomic Theory I & II; Intermediate Macroeconomics.
 
-- **Universidad de Chile** — Lecturer (2021–2022)  
-  Introduction to Microeconomics; Introduction to Macroeconomics
+- **Universidad de Chile** — Lecturer (2021–2022)
+  Introduction to Microeconomics; Introduction to Macroeconomics.
 
-- **Universidad de Chile & Pontificia Universidad Católica de Chile** — Teaching Assistant (2015–2020)  
-  Graduate: Topics on Economic Growth; Political Economy; Econometrics  
-  Undergraduate: Microeconomics; Macroeconomics; Statistics
+- **Universidad de Chile** — Teaching Assistant (2015–2020)
+  Graduate: Political Economy; Econometrics. Undergraduate: Micro; Macro; Statistics.
 
+- **Pontificia Universidad Católica de Chile** — Teaching Assistant (2019)
+  Graduate: Topics on Economic Growth.
+  
 ## Awards
 
 - TA Excellence Award, UC San Diego (2025)  
@@ -62,24 +64,17 @@ redirect_from:
 
 34th EALE (Padova, 2022); 11th ifo Dresden Labor Economics Workshop (2022); SECHI (2021); DESOC Seminar (2021).
 
-## Skills
-
-Matlab, Stata, LaTeX, Python
 
 ## Other Professional Experience
 
-- **Undergraduate Research Lab Leader**, UC San Diego (2024)  
-  Led research training for undergraduate assistants; designed macro-development projects.
-
-- **Analyst and Advisor**, Presidency of Chile (2022–2023)  
+- **Public Policy Advisor**, Executive Office of the President of Chile (2022–2023)  
   Regulatory policy, economic strategy, and quantitative analysis for executive decision-making.
-
-- **Senior Researcher**, IEPS — Gender and Macroeconomics for Development (2021)  
-  Research on gender gaps, development, and macroeconomic policy.
-
-- **Editorial Committee Member**, *Red Estudios Nueva Economía* Journal (2021)  
-  Reviewed submissions and coordinated issue preparation.
+  
 
 ## Service and Leadership
 
-President, CEIC (2018–2020); Organizer, Critical Congress of Economics (2019); Women’s Assembly Spokesperson (2018); FECH Counselor (2017–2018).
+**Undergraduate Research Lab Leader**, *UC San Diego* (2024) $\cdot$ **Editorial Committee**, *Red Estudios Nueva Economía* (2021) $\cdot$ **Senior Researcher**, *IEPS* (2021) $\cdot$ **President, Student Council (CEIC)**, *Universidad de Chile* (2018–2020) $\cdot$ **Organizer**, *Critical Congress of Economics* (2019) $\cdot$ **Student Federation Counselor (FECH)**, *Universidad de Chile* (2017–2018)
+
+## Skills
+
+Matlab, Stata, LaTeX, Python
