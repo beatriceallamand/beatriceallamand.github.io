@@ -13,7 +13,6 @@ redirect_from:
 
 ## Work in Progress
 
----
 
 **Capital Flows and the Geography of Growth**  
 Project studying how capital mobility interacts with spatial productivity differences to shape growth and capital allocation across regions.
