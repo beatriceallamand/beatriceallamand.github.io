@@ -6,13 +6,13 @@ redirect_from:
   - /resume
 ---
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px; margin-bottom: 30px;">
-  <a href="/files/cv.pdf" target="_blank" class="btn" style="background-color: #3d4147; color: #ffffff; border-radius: 6px; padding: 10px 20px; text-decoration: none; display: inline-flex; align-items: center; font-size: 14px; border: 1px solid rgba(255,255,255,0.1);">
-    <i class="far fa-file-pdf" style="margin-right: 8px;"></i> View CV
+<div style="display: flex; gap: 15px; margin-bottom: 30px; clear: both;">
+  <a href="/files/cv.pdf" target="_blank" style="background-color: #3d4147; color: white; border-radius: 6px; padding: 10px 18px; text-decoration: none; font-size: 14px; font-weight: bold; border: 1px solid #3d4147;">
+    <i class="far fa-file-pdf"></i> View CV
   </a>
 
-  <a href="/files/cv.pdf" download="Beatrice_Allamand_CV.pdf" class="btn" style="background-color: #ffffff; color: #3d4147; border-radius: 6px; padding: 10px 20px; text-decoration: none; display: inline-flex; align-items: center; font-size: 14px; border: 1px solid #3d4147;">
-    <i class="fas fa-download" style="margin-right: 8px;"></i> Download CV
+  <a href="/files/cv.pdf" download="Beatrice_Allamand_CV.pdf" style="background-color: white; color: #3d4147; border-radius: 6px; padding: 10px 18px; text-decoration: none; font-size: 14px; font-weight: bold; border: 1px solid #3d4147;">
+    <i class="fas fa-download"></i> Download CV
   </a>
 </div>
 
