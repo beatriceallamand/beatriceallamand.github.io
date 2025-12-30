@@ -11,12 +11,9 @@ I am a PhD student in Economics at the **University of California, San Diego**.
 
 My research interests are in **macroeconomics**, **international trade**, **labor**, and **development**, with a focus on **heterogeneous-agent models** and policy-relevant questions. My work combines quantitative macroeconomic theory with applied questions related to growth, labor markets, and inequality.
 
-<a href="/files/cv.pdf" class="btn btn--info" style="background-color: #333; color: white; border-radius: 10px; padding: 10px 20px; text-decoration: none; display: inline-flex; align-items: center; font-family: sans-serif;">
-  <i class="fas fa-file-pdf" style="margin-right: 12px; font-size: 24px;"></i>
-  <span style="display: flex; flex-direction: column;">
-    <strong style="font-size: 18px; line-height: 1;">Download CV</strong>
-    <small style="font-size: 12px; opacity: 0.8;">(PDF)</small>
-  </span>
+<a href="/files/cv.pdf" class="btn" style="background-color: #2b2e33; color: #ffffff; border-radius: 8px; padding: 8px 16px; text-decoration: none; display: inline-flex; align-items: center; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; transition: background-color 0.2s ease;">
+  <i class="fas fa-download" style="margin-right: 8px; font-size: 16px; opacity: 0.9;"></i>
+  <span style="font-weight: 500; font-size: 15px;">Download CV</span>
 </a> ·
 <i class="fas fa-envelope"></i> [mallamandturner@ucsd.edu](mailto:mallamandturner@ucsd.edu)   ·
 <i class="fab fa-github"></i> [beatriceallamand](https://github.com/beatriceallamand)
