@@ -20,8 +20,8 @@ Topics covered: dynamic programming, growth models, and RBC theory.
 | 4 | Growth Models and Balanced Growth Paths | [Slides](/files/teaching/210a/D4.pdf) · [Annotated](/files/teaching/210a/D4_notes.pdf) |
 | 5 | Midterm Review: Growth Models and Dynamic Programming | [Slides](/files/teaching/210a/D5.pdf) |
 | 6 | Midterm Solutions; Computational: Poverty Traps and Growth Takeoffs | [Solutions](/files/teaching/210a/D6_Midterm2025_Solutions.pdf) · [Notebook](/files/teaching/210a/D6_Poverty_Traps_and_Growth_Takeoffs_Neoclassical_Model.html) |
-| 7 | RBC Theory, Microfoundations, and Optimal Ramsey Policy | [Slides](/files/teaching/210a/D7.pdf) |
-| 8 | Aiyagari Model and Exam Practice | [Slides](/files/teaching/210a/D8.pdf) |
+| 7 | Endogenous Growth Through Expanding Varieties| [Slides](/files/teaching/210a/D7.pdf) |
+| 8 | Aiyagari Model | [Slides](/files/teaching/210a/D8.pdf) |
 | 9 | Final Exam Review: Dynamic Programming and Household Heterogeneity | [Slides](/files/teaching/210a/D9.pdf) |
 
 ---
