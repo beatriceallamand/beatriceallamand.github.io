@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in Economics at the **University of California, San Diego**.
 
-My research interests are in **macroeconomics**, **trade**, **labor**, and **development**, with a focus on **heterogeneous-agent models**. My current research combines quantitative macroeconomic theory with applied questions related to growth, labor markets, and inequality.
+My research interests are in **macroeconomics**, **labor**, and **development**, with a focus on **heterogeneous-agent models**. My current research combines quantitative macroeconomic theory with applied questions related to growth, labor markets, and inequality.
 
 <a href="/files/cv.pdf" target="_blank" class="btn" style="background-color: #3d4147; color: #ffffff; border-radius: 6px; padding: 7px 14px; text-decoration: none; display: inline-flex; align-items: center; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; transition: 0.2s; border: 1px solid rgba(255,255,255,0.1);">
   <i class="far fa-file-pdf" style="margin-right: 8px; font-size: 15px;"></i>
