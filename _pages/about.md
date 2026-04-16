@@ -22,13 +22,13 @@ My research interests are in macroeconomics and labor economics, with a focus on
 
 <div style="display: flex; gap: 20px; align-items: center; margin-top: 15px;">
   
-  <a href="mailto:mallamandturner@ucsd.edu" style="text-decoration: none; color: #3d4147; display: flex; align-items: center; font-size: 15px;">
-    <i class="fas fa-fw fa-envelope" style="margin-right: 8px; color: #3d4147;"></i>
+  <a href="mailto:mallamandturner@ucsd.edu" style="text-decoration: none; color: inherit; display: flex; align-items: center; font-size: 15px;">
+    <i class="fas fa-fw fa-envelope" style="margin-right: 8px; color: currentColor;"></i>
     mallamandturner@ucsd.edu
   </a>
 
-  <a href="https://github.com/beatriceallamand" target="_blank" style="text-decoration: none; color: #3d4147; display: flex; align-items: center; font-size: 15px;">
-    <i class="fab fa-fw fa-github" style="margin-right: 8px; color: #3d4147;"></i>
+  <a href="https://github.com/beatriceallamand" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; font-size: 15px;">
+    <i class="fab fa-fw fa-github" style="margin-right: 8px; color: currentColor;"></i>
     GitHub
   </a>
 
