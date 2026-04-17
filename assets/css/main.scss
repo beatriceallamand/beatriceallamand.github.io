@@ -93,19 +93,21 @@
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 7px 14px;
-  border-radius: 6px;
+  padding: 8px 15px;
+  border-radius: 8px;
   text-decoration: none !important;
   font-size: 14px;
   font-weight: 500;
-  border: 1px solid rgba(127,127,127,0.25);
-  background-color: #4a5568;
+  background-color: #4b5563;
+  border: 1px solid #4b5563;
   color: #ffffff !important;
-  transition: 0.2s ease;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+  transition: background-color 0.2s ease, transform 0.15s ease;
 }
 
 .custom-cv-btn:hover {
-  text-decoration: none !important;
-  opacity: 0.92;
+  background-color: #374151;
+  border-color: #374151;
   color: #ffffff !important;
+  text-decoration: none !important;
 }
