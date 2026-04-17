@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Discussion notes for **Econ 210A: Ph.D. Macroeconomic Theory I** at UC San Diego (Fall 2025).  
-Topics covered: dynamic programming, growth models, and RBC theory.
+Topics covered: dynamic programming, planner vs competitive equilibrium (RCE, Arrow Debreu Date-0, Sequential markets), growth models, etc.
 
 *These materials are shared as supplementary references for students learning macroeconomic theory.*
 
