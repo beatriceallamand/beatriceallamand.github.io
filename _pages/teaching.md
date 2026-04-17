@@ -15,7 +15,7 @@ They are intended as supplementary references rather than complete course notes.
 ### University of California, San Diego
 
 - **Ph.D. Macroeconomic Theory I (Econ 210A)**  
-  Discussion notes on dynamic programming, growth models, and RBC theory.  
+  Discussion notes on dynamic programming, planner vs competitive equilibrium problems, growth models, etc.  
   → [Course materials](/teaching/ucsd-210a/)
 
 - **Ph.D. Macroeconomic Theory II (Econ 210B)**  
