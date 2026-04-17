@@ -95,15 +95,17 @@
   gap: 8px;
   padding: 7px 14px;
   border-radius: 6px;
-  text-decoration: none;
+  text-decoration: none !important;
   font-size: 14px;
+  font-weight: 500;
   border: 1px solid rgba(127,127,127,0.25);
   background-color: #4a5568;
-  color: #ffffff;
+  color: #ffffff !important;
   transition: 0.2s ease;
 }
 
 .custom-cv-btn:hover {
-  text-decoration: none;
+  text-decoration: none !important;
   opacity: 0.92;
+  color: #ffffff !important;
 }
