@@ -67,3 +67,43 @@
   font-size: 22px !important;
   color: #3d4147 !important; /* Matches your CV button */
 }
+
+.custom-contact-links {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-top: 15px;
+  flex-wrap: wrap;
+}
+
+.custom-contact-links a {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+
+.custom-contact-links a i {
+  margin-right: 8px;
+  color: currentColor;
+}
+
+.custom-cv-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 14px;
+  border: 1px solid rgba(127,127,127,0.25);
+  background-color: #4a5568;
+  color: #ffffff;
+  transition: 0.2s ease;
+}
+
+.custom-cv-btn:hover {
+  text-decoration: none;
+  opacity: 0.92;
+}
