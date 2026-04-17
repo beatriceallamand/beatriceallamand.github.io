@@ -16,25 +16,6 @@ My research interests are in macroeconomics and labor economics, with a focus on
   <span>View CV</span>
 </a>
 
-<a href="/files/cv.pdf" target="_blank" class="custom-cv-btn">
-  <i class="far fa-file-pdf"></i>
-  <span>View CV</span>
-</a>
-
-## Contact
-
-<div class="custom-contact-links">
-  <a href="mailto:mallamandturner@ucsd.edu">
-    <i class="fas fa-fw fa-envelope"></i>
-    mallamandturner@ucsd.edu
-  </a>
-
-  <a href="https://github.com/beatriceallamand" target="_blank">
-    <i class="fab fa-fw fa-github"></i>
-    GitHub
-  </a>
-</div>
-
 
 ---
 ## Contact
