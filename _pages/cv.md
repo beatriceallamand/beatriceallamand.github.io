@@ -54,6 +54,6 @@ redirect_from:
 
 ## Service and Leadership
 
-$$ Organizer, West Coast Micro to Macro-development Workshop, UC San Diego (2026) \cdot$$ Undergraduate Research Lab Leader, UC San Diego (2024) $$\cdot$$ Editorial Committee, Red Estudios Nueva Economía Journal (2021) $$\cdot$$ Senior Researcher, IEPS (2021) $$\cdot$$ President, Student Council (CEIC), Universidad de Chile (2018–2020) $$\cdot$$ Student Federation Counselor (FECH), Universidad de Chile (2017–2018)
+Organizer, West Coast Micro to Macro-development Workshop, UC San Diego (2026) $$\cdot$$ Undergraduate Research Lab Leader, UC San Diego (2024) $$\cdot$$ Editorial Committee, Red Estudios Nueva Economía Journal (2021) $$\cdot$$ Senior Researcher, IEPS (2021) $$\cdot$$ President, Student Council (CEIC), Universidad de Chile (2018–2020) $$\cdot$$ Student Federation Counselor (FECH), Universidad de Chile (2017–2018)
 
 
