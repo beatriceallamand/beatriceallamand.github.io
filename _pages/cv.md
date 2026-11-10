@@ -26,8 +26,8 @@ redirect_from:
 
 ## Teaching
 
-- **UC San Diego** — Teaching Assistant (2024–2025)  
-  Ph.D. Macroeconomic Theory I & II; Intermediate Macroeconomics.
+- **UC San Diego** — Teaching Assistant (2024–present)  
+  Ph.D. Macroeconomic Theory I & II; Intermediate Macroeconomics; Statistics.
 
 - **Universidad de Chile** — Lecturer (2021–2022)  
   Introduction to Microeconomics; Introduction to Macroeconomics.
