@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at the **University of California, San Diego**.
+I am a PhD candidate in Economics at the **University of California, San Diego**.
 
-My research interests are in macroeconomics and labor economics, with a focus on heterogeneous-agent models. My current research combines quantitative macroeconomic theory with applied questions related to monetary policy, labor markets, and inequality.
+**Research Interests:** Macroeconomics, Heterogeneous-Agent Models, Labor Markets, Inequality
 
 
 <a href="/files/cv.pdf" target="_blank" class="custom-cv-btn">
